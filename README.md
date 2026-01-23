@@ -5,11 +5,11 @@ Our project focuses on detecting fraudulent credit card transactions using machi
 
 * **Manal** (2253)
 * **Saba** (2251)
-* **Ifra** (2235)                                                                                                                                                                                                                                                                                                                                                                           * **Methodology**
+* **Ifra** (2235)                                                                                                                                                                                                                                                                                                                                                                                                                        * **TECH STACK**
 
 * **Dataset:** Credit Card Fraud Dataset from Kaggle.
 * **Models:** Logistic Regression and Random Forest.
- * **Tools:** Python, Pandas, and Scikit-learn ,Numpy,Seaborn,Tensorflow,Keras   ,Imbalanced-Learn(SMOTE,NearMiss)                                                                                                                                                                                                                                                                                                                     * **METHODOLOGY**
+ * **Tools:** Python, Pandas, and Scikit-learn ,Numpy,Seaborn,Tensorflow,Keras   ,Imbalanced-Learn(SMOTE,NearMiss)                                                                                                                                                                                                                                                                                                                                                                                           * **METHODOLOGY**
  
 EDA & Correlation Analysis                                                 
 Preprocissing                                                                                                                               
