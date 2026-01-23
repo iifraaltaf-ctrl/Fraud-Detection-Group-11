@@ -9,9 +9,9 @@ Our project focuses on detecting fraudulent credit card transactions using machi
 
 * **Dataset:** Credit Card Fraud Dataset from Kaggle.
 * **Models:** Logistic Regression and Random Forest.
- * **Tools:** Python, Pandas, and Scikit-learn                                                                                                                                                                                                                                                                                                               * **Final Results**
+ * **Tools:** Python, Pandas, and Scikit-learn ,Numpy,Seaborn,Tensorflow,Keras   ,Imbalanced-Learn(SMOTE,NearMiss)                                                                                                                                                                                                                                                                                                                     * **METHODOLOGY**
  
-* **Logistic Regression:** This model performed very well, catching 75% of fraud cases (Recall: 0.75).
-* **Random Forest:** This model had high overall accuracy but failed to detect the specific fraud cases (Recall: 0.00).
-
-* **Conclusion:** We chose Logistic Regression as the best model because it successfully identified the fraudulent transactions that the other model missed.
+EDA & Correlation Analysis     
+Preprocissing 
+Sampling
+Training(Random Forest , Logistic Regression,Neural Networks)
